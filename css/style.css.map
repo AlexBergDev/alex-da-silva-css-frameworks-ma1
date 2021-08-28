@@ -1,0 +1,14 @@
+{
+    "version": 3,
+    "mappings": "AEAA,OAAO,CAAC,qGAAI;AAEZ,AAAA,KAAK,CAAC;EACJ,WAAW,EAAE,uBAAuB;CACrC;;ACJD,AAAA,OAAO,CAAC;EACN,gBAAgB,EFAF,OAAO,CEAY,UAAU;CAC5C;;AAED,AAAA,aAAa,CAAC;EACZ,SAAS,EAAE,IAAI;EACf,KAAK,EAAE,kBAAkB;EACzB,WAAW,EAAE,IAAI;CAClB;;AAED,AAAA,SAAS,CAAC;EACR,WAAW,EAAE,4BAA4B;EACzC,SAAS,EAAE,IAAI;EACf,WAAW,EAAE,IAAI;EACjB,KAAK,EFVS,OAAO,CEUC,UAAU;CAKjC;;AATD,AAME,SANO,CAML,OAAO,CAAC;EACR,KAAK,EFfc,OAAO,CEeG,UAAU;CACxC;;AAGH,AAAA,eAAe,CAAC;EACd,MAAM,EAAE,CAAC;CACV;;ACvBD,AAAA,IAAI,CAAC;EACH,gBAAgB,EHDE,OAAO,CGCY,UAAU;CAChD;;AAED,AAAA,EAAE,CAAC;EACD,SAAS,EAAE,IAAI;EACf,KAAK,EHDS,OAAO;CGEtB;;ACPD,AAAA,MAAM,CAAC;EACL,gBAAgB,EJAF,OAAO,CIAY,UAAU;EAC3C,SAAS,EAAE,IAAI;EACf,KAAK,EJCS,OAAO;CIAtB",
+    "sources": [
+        "../sass/style.scss",
+        "../sass/partials/_base.scss",
+        "../sass/partials/_typography.scss",
+        "../sass/partials/_nav.scss",
+        "../sass/partials/_layout.scss",
+        "../sass/partials/_footer.scss"
+    ],
+    "names": [],
+    "file": "style.css"
+}

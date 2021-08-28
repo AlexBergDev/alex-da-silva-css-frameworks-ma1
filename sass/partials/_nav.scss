@@ -1,0 +1,24 @@
+.navbar {
+  background-color: $colour-accent !important;
+}
+
+.navbar-brand {
+  font-size: 36px;
+  color: #262626 !important;
+  line-height: 43px;
+}
+
+.nav-link {
+  font-family: "Archivo Narrow", sans-serif;
+  font-size: 18px;
+  line-height: 22px;
+  color: $colour-footer !important;
+
+  & .active {
+    color: $colour-accent-second !important;
+  }
+}
+
+.navbar-toggler {
+  border: 0;
+}

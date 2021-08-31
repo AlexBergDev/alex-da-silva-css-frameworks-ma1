@@ -1,0 +1,13 @@
+.squares {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, 220px);
+  margin: 2rem 1rem;
+  grid-gap: 1.5rem;
+  justify-content: center;
+
+  &__standard {
+    border-radius: 10%;
+    padding-top: 100%;
+    background: $colour-accent;
+  }
+}
